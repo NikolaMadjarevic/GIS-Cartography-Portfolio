@@ -18,7 +18,7 @@ The maps demonstrate practical experience in thematic cartography, spatial data 
 **Folder:** `PHYSICAL_GEOGRAPHY`
 
 * **Geographical Location of Trstenik Municipality** ([View map](PHYSICAL_GEOGRAPHY/geography_location.jpg)) – Presents the geographical position of Trstenik Municipality within Serbia.
-* **Digital Elevation Model and Surface Hydrography** ([View map](PHYSICAL_GEOGRAPHY/DEM_hydrology.jpg)) – Shows elevation patterns and the surface hydrographic network.
+* **Digital Elevation Model and Surface Hydrography** ([View map](PHYSICAL_GEOGRAPHY/DEM_Hydrology.jpg)) – Shows elevation patterns and the surface hydrographic network.
 * **Terrain Slope and Construction Suitability** ([View map](PHYSICAL_GEOGRAPHY/slope_construction_suitability.jpg)) – Classifies terrain according to slope and its suitability for construction.
 * **Contour Lines and Hydrographic Network** ([View map](PHYSICAL_GEOGRAPHY/contour_with_hydrology.jpg)) – Displays terrain elevation through contour lines alongside the hydrographic network.
 
