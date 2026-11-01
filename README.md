@@ -81,7 +81,7 @@ The maps are based on publicly available statistical and geographical data, incl
 * **Statistical Office of the Republic of Serbia (SORS / RZS)**
 * **Republic Electoral Commission (RIK)**
 * **Ministry of the Interior of the Republic of Serbia**
-* Publicly available spatial datasets (DEM, OpenStreetMap, Administrative Units)
+* **Publicly available spatial datasets (DEM, OpenStreetMap, Administrative Units)**
 
 *(Note: Specific data sources vary between individual maps and are detailed within layout marginalia).*
 
