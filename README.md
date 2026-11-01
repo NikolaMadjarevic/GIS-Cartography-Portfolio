@@ -36,7 +36,7 @@ The maps demonstrate practical experience in thematic cartography, spatial data 
 ### 3. 🚗 Transport and Traffic
 **Folder:** `TRANSPORT_and_TRAFFIC`
 
-* **Traffic Position of Trstenik Municipality** ([View map](TRANSPORT_and_TRAFFIC/traffic_accidents_points.jpg)) – Presents the municipality's position within the regional and national transport network.
+* **Traffic Position of Trstenik Municipality** ([View map](TRANSPORT_and_TRAFFIC/traffic_position.jpg)) – Presents the municipality's position within the regional and national transport network.
 * **Traffic Accidents in Trstenik Municipality (2025) - Point Distribution** ([View map](TRANSPORT_and_TRAFFIC/traffic_accidents_points.jpg)) – Shows the locations of recorded traffic accidents across the municipality.
 * **Traffic Accidents in Trstenik Municipality (2025) - Heat Map** ([View map](TRANSPORT_and_TRAFFIC/traffic_accidents_heat.jpg)) - Illustrates the spatial concentration and distribution of traffic accidents.
 
@@ -68,7 +68,8 @@ The portfolio includes practical application of diverse thematic mapping techniq
 * **Proportional and graduated symbols**
 * **Pie chart mapping** (Multivariate spatial distribution)
 * **Bivariate thematic mapping** (Relationship between two variables)
-* **Point density mapping** (Kernel density & spatial concentration)
+* **Point density mapping** (spatial concentration)
+* **Kernel density mapping**
 * **Flow mapping** (Directional migration vectors)
 * **Terrain and elevation visualization** (DEM surface analysis, hillshading & contours)
 * **Settlement classification and demographic mapping**
@@ -80,7 +81,7 @@ The portfolio includes practical application of diverse thematic mapping techniq
 The maps are based on publicly available statistical and geographical data, including:
 * **Statistical Office of the Republic of Serbia (SORS / RZS)**
 * **Republic Electoral Commission (RIK)**
-* **Ministry of the Interior of the Republic of Serbia**
+* **Ministry of the Interior of the Republic of Serbia (MUP)**
 * **Publicly available spatial datasets (DEM, OpenStreetMap, Administrative Units)**
 
 *(Note: Specific data sources vary between individual maps and are detailed within layout marginalia).*
