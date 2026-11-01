@@ -57,7 +57,7 @@ The maps demonstrate practical experience in thematic cartography, spatial data 
 **Election:** Early Parliamentary Elections in Serbia, 25 October 2026.
 
 * **Election Results by Municipality – Pie Chart Mapping** ([View map](ELECTION/election_pie_chart.jpg)) – Compares the distribution of votes among selected electoral lists across Serbian municipalities.
-* **Election Results by Municipality – Winning Lists** ([View map](ELECTION/election_winning.jpg)) – Shows the electoral list that received the highest number of votes in each municipality.
+* **Election Results by Municipality – Winning Lists** ([View map](ELECTION/election_winning_list.jpg)) – Shows the electoral list that received the highest number of votes in each municipality.
 
 ---
 
