@@ -37,7 +37,7 @@ The maps demonstrate practical experience in thematic cartography, spatial data 
 **Folder:** `TRANSPORT_and_TRAFFIC`
 
 * **Traffic Position of Trstenik Municipality** ([View map](TRANSPORT_and_TRAFFIC/traffic_accidents_points.jpg)) – Presents the municipality's position within the regional and national transport network.
-* **Traffic Accidents in Trstenik Municipality (2025) - Point Distribution** ([View map] (TRANSPORT_and_TRAFFIC/traffic_accidents_points.jpg)) – Shows the locations of recorded traffic accidents across the municipality.
+* **Traffic Accidents in Trstenik Municipality (2025) - Point Distribution** ([View map](TRANSPORT_and_TRAFFIC/traffic_accidents_points.jpg)) – Shows the locations of recorded traffic accidents across the municipality.
 * **Traffic Accidents in Trstenik Municipality (2025) - Heat Map** ([View map](TRANSPORT_and_TRAFFIC/traffic_accidents_heat.jpg)) - Illustrates the spatial concentration and distribution of traffic accidents.
 
 ### 4. 🧳 Migration
